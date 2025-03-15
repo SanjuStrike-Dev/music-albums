@@ -1,0 +1,30 @@
+.header-bar {
+    background-color: #FFFFFF !important;
+    box-shadow: none;
+    /* padding: 10px 20px; */
+  }
+  
+  .header-toolbar {
+    display: flex;
+    align-items: center;
+  }
+  
+  .header-title {
+    color: #29313A;
+    font-weight: 600;
+    font-size: 24px;
+    font-family: "Commissioner", sans-serif;
+  }
+  
+
+  .breadcrumb {
+    margin: 20px 24px;
+    font-family: "Commissioner", sans-serif;
+  }
+  
+  .breadcrumb-link {
+    text-decoration: none;
+    color: #677A90;
+    font-weight: 500;
+  }
+  

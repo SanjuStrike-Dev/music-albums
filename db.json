@@ -1,0 +1,169 @@
+{
+    "collections": [
+      {
+        "id": "1",
+        "name": "EPIC: The Troy Saga (Official Concept Album)",
+        "artist": "Jorge Rivera-Herrans",
+        "type": "EP",
+        "songCount": 5,
+        "durationInSeconds": 945,
+        "sizeInBytes": 11456000,
+        "releasedOn": "2024-09-03T14:35:00Z"
+      },
+      {
+        "id": "2",
+        "name": "Dawn of the Eclipse",
+        "artist": "Luna Shadows",
+        "type": "Album",
+        "songCount": 10,
+        "durationInSeconds": 2375,
+        "sizeInBytes": 25120000,
+        "releasedOn": "2023-05-18T12:00:00Z"
+      },
+      {
+        "id": "3",
+        "name": "Echoes of Eternity",
+        "artist": "Celestial Harmonies",
+        "type": "Single",
+        "songCount": 1,
+        "durationInSeconds": 340,
+        "sizeInBytes": 5120000,
+        "releasedOn": "2022-11-22T08:45:00Z"
+      },
+      {
+        "id": "4",
+        "name": "Synthwave Dreams",
+        "artist": "Neon Vortex",
+        "type": "EP",
+        "songCount": 6,
+        "durationInSeconds": 1570,
+        "sizeInBytes": 14350000,
+        "releasedOn": "2024-02-14T15:30:00Z"
+      },
+      {
+        "id": "5",
+        "name": "Legends Reborn",
+        "artist": "Epic Soundscapes",
+        "type": "Album",
+        "songCount": 12,
+        "durationInSeconds": 3625,
+        "sizeInBytes": 29875000,
+        "releasedOn": "2021-07-07T10:10:00Z"
+      },
+      {
+        "id": "6",
+        "name": "The Final Symphony",
+        "artist": "Orchestral Odyssey",
+        "type": "Single",
+        "songCount": 1,
+        "durationInSeconds": 495,
+        "sizeInBytes": 6400000,
+        "releasedOn": "2023-09-30T18:20:00Z"
+      }
+    ],
+  
+    "collectionDetails": [
+      {
+        "id": "1",
+        "name": "EPIC: The Troy Saga (Official Concept Album)",
+        "artist": "Jorge Rivera-Herrans",
+        "type": "EP",
+        "songCount": 5,
+        "totalDurationInSeconds": 945,
+        "totalSizeInBytes": 11456000,
+        "songs": [
+          { "title": "The Battle of Troy", "durationInSeconds": 195, "sizeInBytes": 2200000, "performers": ["Jorge Rivera-Herrans"] },
+          { "title": "The Warrior's Cry", "durationInSeconds": 185, "sizeInBytes": 2100000, "performers": ["Jorge Rivera-Herrans", "Mark Lawrence"] },
+          { "title": "Fate of the Gods", "durationInSeconds": 200, "sizeInBytes": 2300000, "performers": ["Jorge Rivera-Herrans", "Emily Scott"] },
+          { "title": "Into the Fire", "durationInSeconds": 190, "sizeInBytes": 2200000, "performers": ["Jorge Rivera-Herrans"] },
+          { "title": "The Final Stand", "durationInSeconds": 175, "sizeInBytes": 1856000, "performers": ["Jorge Rivera-Herrans", "Mark Lawrence", "Emily Scott"] }
+        ],
+        "releasedOn": "2024-09-03T14:35:00Z"
+      },
+      {
+        "id": "2",
+        "name": "Dawn of the Eclipse",
+        "artist": "Luna Shadows",
+        "type": "Album",
+        "songCount": 10,
+        "totalDurationInSeconds": 2375,
+        "totalSizeInBytes": 25120000,
+        "songs": [
+          { "title": "Solar Flare", "durationInSeconds": 240, "sizeInBytes": 2600000, "performers": ["Luna Shadows"] },
+          { "title": "Eclipse Rising", "durationInSeconds": 250, "sizeInBytes": 2700000, "performers": ["Luna Shadows", "Ethan Ray"] },
+          { "title": "Midnight Glow", "durationInSeconds": 230, "sizeInBytes": 2500000, "performers": ["Luna Shadows", "Sophia Dawn"] },
+          { "title": "Wandering Star", "durationInSeconds": 220, "sizeInBytes": 2400000, "performers": ["Luna Shadows"] },
+          { "title": "Aurora Sky", "durationInSeconds": 210, "sizeInBytes": 2350000, "performers": ["Luna Shadows", "Ethan Ray", "Sophia Dawn"] }
+        ],
+        "releasedOn": "2023-05-18T12:00:00Z"
+      },
+      {
+        "id": "3",
+        "name": "Echoes of Eternity",
+        "artist": "Celestial Harmonies",
+        "type": "Single",
+        "songCount": 1,
+        "totalDurationInSeconds": 340,
+        "totalSizeInBytes": 5120000,
+        "songs": [
+          { "title": "Timeless Whispers", "durationInSeconds": 340, "sizeInBytes": 5120000, "performers": ["Celestial Harmonies"] }
+        ],
+        "releasedOn": "2022-11-22T08:45:00Z"
+      },
+      {
+        "id": "4",
+        "name": "Synthwave Dreams",
+        "artist": "Neon Vortex",
+        "type": "EP",
+        "songCount": 6,
+        "totalDurationInSeconds": 1570,
+        "totalSizeInBytes": 14350000,
+        "songs": [
+          { "title": "Neon Lights", "durationInSeconds": 265, "sizeInBytes": 2450000, "performers": ["Neon Vortex"] },
+          { "title": "Electric Pulse", "durationInSeconds": 250, "sizeInBytes": 2400000, "performers": ["Neon Vortex", "James Harper"] },
+          { "title": "Cyber Highway", "durationInSeconds": 270, "sizeInBytes": 2550000, "performers": ["Neon Vortex"] }
+        ],
+        "releasedOn": "2024-02-14T15:30:00Z"
+      },
+      {
+        "id": "5",
+        "name": "Legends Reborn",
+        "artist": "Epic Soundscapes",
+        "type": "Album",
+        "songCount": 12,
+        "totalDurationInSeconds": 3625,
+        "totalSizeInBytes": 29875000,
+        "songs": [
+          { "title": "Rise of the Titans", "durationInSeconds": 320, "sizeInBytes": 2600000, "performers": ["Epic Soundscapes"] },
+          { "title": "Mythic Journey", "durationInSeconds": 315, "sizeInBytes": 2550000, "performers": ["Epic Soundscapes", "Lucas Hart"] },
+          { "title": "Eternal Legends", "durationInSeconds": 305, "sizeInBytes": 2500000, "performers": ["Epic Soundscapes"] },
+          { "title": "The Hero's Path", "durationInSeconds": 310, "sizeInBytes": 2550000, "performers": ["Epic Soundscapes", "Sophia Lee"] },
+          { "title": "Destiny Awaits", "durationInSeconds": 290, "sizeInBytes": 2400000, "performers": ["Epic Soundscapes"] },
+          { "title": "Battle Cry", "durationInSeconds": 280, "sizeInBytes": 2350000, "performers": ["Epic Soundscapes", "Mark Johnson"] },
+          { "title": "Echoes of Time", "durationInSeconds": 275, "sizeInBytes": 2300000, "performers": ["Epic Soundscapes"] },
+          { "title": "Glorious Dawn", "durationInSeconds": 260, "sizeInBytes": 2250000, "performers": ["Epic Soundscapes", "Emily Scott"] },
+          { "title": "Shadows of the Past", "durationInSeconds": 255, "sizeInBytes": 2200000, "performers": ["Epic Soundscapes"] },
+          { "title": "Triumph of Kings", "durationInSeconds": 275, "sizeInBytes": 2300000, "performers": ["Epic Soundscapes", "Sophia Lee"] },
+          { "title": "Final Victory", "durationInSeconds": 310, "sizeInBytes": 2550000, "performers": ["Epic Soundscapes", "Mark Johnson"] },
+          { "title": "Immortal Legacy", "durationInSeconds": 330, "sizeInBytes": 2700000, "performers": ["Epic Soundscapes"] }
+        ],
+        "releasedOn": "2021-07-07T10:10:00Z"
+      },
+      {
+        "id": "6",
+        "name": "The Final Symphony",
+        "artist": "Orchestral Odyssey",
+        "type": "Single",
+        "songCount": 1,
+        "totalDurationInSeconds": 495,
+        "totalSizeInBytes": 6400000,
+        "songs": [
+          { "title": "Grand Finale", "durationInSeconds": 495, "sizeInBytes": 6400000, "performers": ["Orchestral Odyssey", "Lucas Hart"] }
+        ],
+        "releasedOn": "2023-09-30T18:20:00Z"
+      }
+      
+    ]
+  }
+  
+  
