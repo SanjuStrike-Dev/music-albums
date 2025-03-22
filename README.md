@@ -5,8 +5,11 @@ This project is a React-based web application that displays a list of music albu
 
 ## Features
 #Landing Page: Displays a table of all music albums.
+
 #Album Details Page: Clicking on an album redirects to a details page with more information.
+
 #Mock API Server: Uses json-server to serve album data.
+
 #Type Filters: Users can filter albums based on their type (EP, Album, Single).
 
 ## Technologies Used 
