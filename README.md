@@ -17,11 +17,8 @@ This project is a React-based web application that displays a list of music albu
 
 ## Installation & Setup 
 
-## Install dependencies
-npm install  
+#Install dependencies - npm install 
 
-## Start the mock API server
-npm run server (it will run the server at 5000)
+#Start the mock API server - npm run server (it will run the server at 5000)
 
-## Run the React application 
-npm start  
+#Run the React application - npm start  
